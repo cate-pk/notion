@@ -1,1 +1,1 @@
-# notion_dday
+# Widget setting
